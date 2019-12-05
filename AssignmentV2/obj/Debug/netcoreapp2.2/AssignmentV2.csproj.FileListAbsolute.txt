@@ -1,0 +1,11 @@
+C:\Users\wwwar\source\repos\AssignmentV2\bin\Debug\netcoreapp2.2\AssignmentV2.deps.json
+C:\Users\wwwar\source\repos\AssignmentV2\bin\Debug\netcoreapp2.2\AssignmentV2.runtimeconfig.json
+C:\Users\wwwar\source\repos\AssignmentV2\bin\Debug\netcoreapp2.2\AssignmentV2.runtimeconfig.dev.json
+C:\Users\wwwar\source\repos\AssignmentV2\bin\Debug\netcoreapp2.2\AssignmentV2.dll
+C:\Users\wwwar\source\repos\AssignmentV2\bin\Debug\netcoreapp2.2\AssignmentV2.pdb
+C:\Users\wwwar\source\repos\AssignmentV2\obj\Debug\netcoreapp2.2\AssignmentV2.csprojAssemblyReference.cache
+C:\Users\wwwar\source\repos\AssignmentV2\obj\Debug\netcoreapp2.2\AssignmentV2.csproj.CoreCompileInputs.cache
+C:\Users\wwwar\source\repos\AssignmentV2\obj\Debug\netcoreapp2.2\AssignmentV2.AssemblyInfoInputs.cache
+C:\Users\wwwar\source\repos\AssignmentV2\obj\Debug\netcoreapp2.2\AssignmentV2.AssemblyInfo.cs
+C:\Users\wwwar\source\repos\AssignmentV2\obj\Debug\netcoreapp2.2\AssignmentV2.dll
+C:\Users\wwwar\source\repos\AssignmentV2\obj\Debug\netcoreapp2.2\AssignmentV2.pdb
